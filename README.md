@@ -1,8 +1,11 @@
 # Assignment1
 <!DOCTYPE html>
 <html>
-<head>
+<head>  
 <title>Introduction to Information Technology</title>
+</head>  
+<body>
+<img src-"Ruthand Enrique.JPG"'width-"104"height-"142">
 
 <h1>Personal Information</h1>
 <p>Name: Ruth Marks</p>
