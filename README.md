@@ -12,6 +12,7 @@
 <p>Student Number:S3872580</p>
 <p>Student Email: s3872580@student.rmit.edu.au</p>
 <p>Github URL https://ruthiomarks.github.io/Assignment1/.</p>
+<img src-"Ruthand Enrique.JPG"'width-"104"height-"142">
 
 <p>I am originally from Liverpool in the UK. I decided to come to Australia for a working holiday in June 2009. After spending a few months in this county I decided that I could see myself living here for the foreseeable future, I decided to go fruit picking to give me an extra visa which then would give me further time to find a suitable job who would be willing to sponsor me to stay. <p>
 <p>My background is quite varied. When I first finished school, I went on to study a diploma of Accounting back in Liverpool. I then moved into retail and become a franchise owner of a popular optometrist located in North Sydney. After 8/9 years I decided to sell my shares in the franchise and not being sure of what I wanted to do next I took a job in medical recruitment whilst I decided on a career path. <p>
